@@ -1,0 +1,5 @@
+{
+    "rufo.exe": "rufo",
+    "rufo.useBundler": false,
+    "*.erb":"erb"
+}
